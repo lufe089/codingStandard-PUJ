@@ -15,5 +15,5 @@
 
 [[main]]
   name = "Coding standard"
-  url = "doc/"
+  url = "docs/"
   weight = 30
