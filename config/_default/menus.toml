@@ -3,7 +3,8 @@
 #     desired widget in your `content/home/` folder.
 #   The weight parameter defines the order that the links will appear in.
 
-[[main]]
+#[[main]]
+[[menu.docs]]
   name = "Coding standard"
   url = "docs/"
   weight = 30
